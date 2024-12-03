@@ -111,7 +111,7 @@ ${DATASET_ROOT}   # Dataset root directory, for example: /home/mira/Data/Onera
     │   └───...
     ├───....
 
-
+```
 
 ### `C. Model Training`
 Before training models, please enter into [`changedetection`] folder, which contains all the code for network definitions, training and testing. 
@@ -151,7 +151,7 @@ python3 changedetection/script/infer_ONERA.py --cfg 'changedetection/configs/vss
                                               --result_saved_path 'changedetection/saved_models/ONERA-multimodal/STMambaBCD_multimodal'
 
 
-
+```
 
 ## 📜Reference
 
