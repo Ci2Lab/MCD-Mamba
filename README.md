@@ -3,7 +3,7 @@
 
 
 
-[Mira Kenzhebay](https://orcid.org/0009-0008-3802-2850)<sup>1 *</sup>, [Reza Arghandeh](https://orcid.org/0000-0002-0691-5426)
+<h3 align="center">[Mira Kenzhebay](https://orcid.org/0009-0008-3802-2850)<sup>1 *</sup>, [Reza Arghandeh](https://orcid.org/0000-0002-0691-5426)</h3>
 
 Western Norway University of Applied Sciences
 
