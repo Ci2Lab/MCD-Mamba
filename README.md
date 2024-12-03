@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1 align="center">ChangeMamba</h1>
 
 <h3>MCD-Mamba: Mamba-Based Framework for Infrastructure Change Detection using Multimodal Satellite Imagery</h3>
