@@ -4,7 +4,7 @@
 
 <h3>MCD-Mamba: Mamba-Based Framework for Infrastructure Change Detection using Multimodal Satellite Imagery</h3>
 
-[Mira Kenzhebay](https://orcid.org/0009-0008-3802-2850)<sup>1 *</sup>, [Reza Arghandeh](https://orcid.org/0000-0002-0691-5426)
+[Mira Kenzhebay](https://orcid.org/0009-0008-3802-2850) *</sup>, [Reza Arghandeh](https://orcid.org/0000-0002-0691-5426)
 
 
 Western Norway University of Applied Sciences
