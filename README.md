@@ -118,7 +118,7 @@ ${DATASET_ROOT}   # Dataset root directory, for example: /home/mira/Data/Onera
 ```
 
 ### `C. Model Training`
-Before training models, please enter into [`changedetection`] folder, which contains all the code for network definitions, training and testing. 
+To train models, change working directory to  [`changedetection`] folder, which contains all the code for network definitions, training and testing. 
 
 ```bash
 cd <project_path>/MCD-Mamba/changedetection
@@ -126,7 +126,7 @@ cd <project_path>/MCD-Mamba/changedetection
 
 ***Binary change detection***
 
-The following commands show how to train and evaluate MCD-Mamba-compact on the SYSU dataset:
+The following commands are examples of how to train and evaluate MCD-Mamba-compact on the multimodal OSCD dataset:
 ```bash
 
 python3 changedetection/script/train_ONERA.py --cfg 'changedetection/configs/vssm1/vssm_compact_224.yaml' 
@@ -168,7 +168,7 @@ python3 changedetection/script/infer_ONERA.py --cfg 'changedetection/configs/vss
 
 
 ## 🤝Acknowledgments
-This project is based on [MambaCD](https://github.com/ChenHongruixuan/MambaCD), VMamba ([paper](https://arxiv.org/abs/2401.10166), [code](https://github.com/MzeroMiko/VMamba)), ScanNet ([paper](https://arxiv.org/abs/2212.05245), [code](https://github.com/ggsDing/SCanNet)), BDANet ([paper](https://ieeexplore.ieee.org/document/9442902), [code](https://github.com/ShaneShen/BDANet-Building-Damage-Assessment)). Thanks for their excellent works!!
+This project is based on [MambaCD](https://github.com/ChenHongruixuan/MambaCD), VMamba ([paper](https://arxiv.org/abs/2401.10166), [code](https://github.com/MzeroMiko/VMamba)), ScanNet ([paper](https://arxiv.org/abs/2212.05245), [code](https://github.com/ggsDing/SCanNet)), BDANet ([paper](https://ieeexplore.ieee.org/document/9442902), [code](https://github.com/ShaneShen/BDANet-Building-Damage-Assessment)). Big thanks for their brilliant works!!
 
 ## 🙋Q & A
-***For any questions, please feel free to [contact us.](mailto:mken@hvl.no)***
+***If you have any questions, please feel free to [contact us.](mailto:mken@hvl.no)***
